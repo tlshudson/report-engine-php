@@ -40,3 +40,6 @@ Antes de rodar o projeto, é necessário ter o seguinte ambiente instalado:
 ├── .htaccess           # URLs amigáveis
 └── README.md
 
+### 👨💻 Autor
+Desenvolvido por [Hudson Teles]
+Contato: [hudsonteles00@gmail.com]
