@@ -39,6 +39,8 @@ Antes de rodar o projeto, é necessário ter o seguinte ambiente instalado:
 ├── vendor/             # Biblioteca FPDF
 ├── .htaccess           # URLs amigáveis
 └── README.md
+```
+---
 
 ### 👨💻 Autor
 Desenvolvido por [Hudson Teles]
