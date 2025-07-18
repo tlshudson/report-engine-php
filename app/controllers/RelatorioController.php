@@ -1,3 +1,3 @@
 <?php
-require_once '../app/models/MotoristaModel.php';
-require_once '../app/views/relatorio_motoristas.php';
+require_once '../app/models/CabecalhoModel.php';
+require_once '../app/views/ComposicaoEquipes.php';
