@@ -29,8 +29,8 @@ Antes de rodar o projeto, é necessário ter o seguinte ambiente instalado:
 ```bash
 /report-engine
 ├── app/
-│   ├── config/         # Configurações do banco Oracle
-│   ├── controllers/    # Lógica dos relatórios
+│   ├── config/         # Configurações do banco Oracle (ex: database.php)
+│   ├── controllers/    # Lógica dos relatórios: recebe requisições, trata e envia para modelos
 │   ├── models/         # Camada de acesso ao banco
 │   ├── views/          # Templates que geram os PDFs
 │   └── libraries/      # Wrappers, FPDF estendido etc.
